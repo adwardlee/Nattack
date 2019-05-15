@@ -34,11 +34,12 @@ Below is Table 1 from our paper, where we show the robustness of each accepted d
 
 Paper available in [Arxiv](https://arxiv.org/abs/1905.00441). If you feel it helpful, please cite our work.
 
-@inproceedings{Li2019NATTACKLT,
+`@inproceedings{
+  Li2019NATTACKLT,
   title={NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks},
   author={Yandong Li and Lijun Li and Liqiang Wang and Tong Zhang and Boqing Gong},
   year={2019}
-}
+}`
 
 ## Source code
 
