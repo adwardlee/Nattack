@@ -1,4 +1,4 @@
-# NATTACK: A STRONG AND UNIVERSAL GAUSSIAN BLACK-BOX ADVERSARIAL ATTACK
+# NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks
 
 
 Data and model can be found here: [data and model](https://1drv.ms/f/s!AlXveXe2-CcAhc9mY5XOfDMJjZIiVQ).
@@ -44,7 +44,3 @@ Paper available in [Arxiv](https://arxiv.org/abs/1905.00441). If you feel it hel
 ## Source code
 
 This repository contains our implemenation of the black-box attack algorithm described in our paper, six defense methods (SAP, LID, RANDOMIZATION, INPUT-TRANS, THERM, and THERM-DAV) borrowed from the code of Anish et al. (2018), two defended models (GUIDED DENOISER and PIXEL DEFLECTION) based on the code of Athalye & Carlini, (2018), and two defended models (RSE and CAS-ADV) from the original papers.
-
-## Note
-
-Please note the paper is still under double-blind review.
